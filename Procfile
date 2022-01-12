@@ -1,0 +1,1 @@
+worker: simple_stock_dashboard_with_bokeh.py
